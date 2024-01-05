@@ -21,3 +21,11 @@ console.log(newDishes.concat(dishes));
 //original array modify nhi hoti h
 
 console.log(dishes.length);
+
+//push method
+console.log(dishes.push("dahi bahlla"));
+console.log(dishes);
+
+//pop method
+console.log(dishes.pop());
+console.log(dishes);
